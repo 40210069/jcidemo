@@ -10,7 +10,7 @@ class CalculatorTest {
 	@Test
 	void testAdd() {
 		uk.ac.qub.eeecs.dave.Calculator c = new uk.ac.qub.eeecs.dave.Calculator();
-		assertEquals(c.add(10,1), 11);
+		assertEquals(c.add(10,1), 13);
 	}
 	
 	@Test
